@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    height: 90vh;
+    width: 80%;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+.title-input, .content-input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+
+
+}
+textarea{
+    height: 320px;
+}
+label{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight:bolder;
+    color: #505050;
+}
+.create-title{
+    font-weight: bold;
+}
+.send-btn{
+    margin-top: 20px;
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.message{
+    border: 1px solid #da525d;
+    background-color: #f8d7da;
+    color: #da525d;
+    padding: 10px;
+    border-radius: 5px;
+    width: 70%;
+    margin-top: 30px;
+}
+h1{
+    margin-bottom: 30px;
+    
+}

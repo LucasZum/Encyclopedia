@@ -1,0 +1,1 @@
+React is an open source JavaScript front-end library focused on creating user interfaces on web pages.
